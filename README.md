@@ -1,2 +1,3 @@
-# reading-notes
-this repo will contain my .NET course notes.
+# Reading Notes
+
+## Code 401 - Advanced Software Development
