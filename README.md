@@ -6,3 +6,4 @@
 ## table of contents
 
 - [terminal practice](terminal.md)
+- [sql practice](sql.md)
