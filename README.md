@@ -7,3 +7,4 @@
 
 - [terminal practice](terminal.md)
 - [sql practice](sql.md)
+- [Debugging - try/catch - exception handling](classreadingnotes.md)
