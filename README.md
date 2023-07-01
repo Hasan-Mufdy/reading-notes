@@ -13,3 +13,4 @@
 - [classes - constructors - stack - heap - garbage collection](classesstackheap.md)
 - [Linked List](linkedlists.md)
 - [Object Oriented Programming](OOP.md)
+- [Interfaces](interfaces.md)
