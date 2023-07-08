@@ -17,3 +17,4 @@
 - [Unit Testing](unittesting.md)
 - [Collections & Enums](collectionsenums.md)
 - [Stacks and Queues](stacksqueues.md)
+- [LINQ & Delegates](LINQAndDelegates.md)
