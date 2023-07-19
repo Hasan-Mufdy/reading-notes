@@ -20,3 +20,4 @@
 - [LINQ & Delegates](LINQAndDelegates.md)
 - [Databases and ERDs](dbms.md)
 - [MVC](mvc.md)
+- [Dependency Injection ](DependencyInjection.md)
