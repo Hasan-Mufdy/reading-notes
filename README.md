@@ -21,3 +21,4 @@
 - [Databases and ERDs](dbms.md)
 - [MVC](mvc.md)
 - [Dependency Injection ](DependencyInjection.md)
+- [Navigation Properties and Routing](mvcRouting.md)
