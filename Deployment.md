@@ -82,4 +82,4 @@ Unit tests involve testing a part of an app in isolation from its infrastructure
 
 ##### Test ActionResult<T>
 
-In ASP.NET Core 2.1 or later, ActionResult<T> (ActionResult<TValue>) enables you to return a type deriving from ActionResult or return a specific type.s
+In ASP.NET Core 2.1 or later, ActionResult<T> (ActionResult<TValue>) enables you to return a type deriving from ActionResult or return a specific type.
