@@ -30,3 +30,4 @@
 - [forms](forms.md)
 - [cookies](cookies.md)
 - [Azure Blob Storage](blob.md)
+- [Hash Tables](hashtables.md)
