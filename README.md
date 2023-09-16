@@ -31,3 +31,4 @@
 - [cookies](cookies.md)
 - [Azure Blob Storage](blob.md)
 - [Hash Tables](hashtables.md)
+- [Razor Pages](razorpages.md)
