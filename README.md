@@ -32,3 +32,4 @@
 - [Azure Blob Storage](blob.md)
 - [Hash Tables](hashtables.md)
 - [Razor Pages](razorpages.md)
+- [View Components](ViewComponents.md)
