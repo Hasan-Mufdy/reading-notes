@@ -33,3 +33,5 @@
 - [Hash Tables](hashtables.md)
 - [Razor Pages](razorpages.md)
 - [View Components](ViewComponents.md)
+- [Sendgrid](Sendgrid.md)
+- [Payment Processing](ViewComponents.md)
