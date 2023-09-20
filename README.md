@@ -34,4 +34,4 @@
 - [Razor Pages](razorpages.md)
 - [View Components](ViewComponents.md)
 - [Sendgrid](Sendgrid.md)
-- [Payment Processing](ViewComponents.md)
+- [Payment Processing](Payment.md)
