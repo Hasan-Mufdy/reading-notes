@@ -35,3 +35,4 @@
 - [View Components](ViewComponents.md)
 - [Sendgrid](Sendgrid.md)
 - [Payment Processing](Payment.md)
+- [Graphs](graphs.md)
